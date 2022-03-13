@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Samuel Mayowa</h1>
-<p >I am currently working as Flutter developer with lots of industrial experience in creating scalable and maintainable projects. I have previously worked as a Web developer/UIUX designer for international and local-based organizations. I pay a lot of attention to details in making sure my apps follow major UX rules and design patterns. All my recent projects follow the clean architecture and the MVVM approach. I also write articles and work on demo projects to contribute to the flutter community.</p>
+<p >I currently work as Flutter developer with lots of industrial experience in creating scalable and maintainable projects. I have previously worked as a Web developer/UIUX designer for international and local-based organizations. I pay a lot of attention to details in making sure my apps follow major UX rules and design patterns. All my recent projects follow the clean architecture and the MVVM approach. I also write articles and work on demo projects to contribute to the flutter community.</p>
 
 Reach out to me on <br /> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adewale-samuel-b3b1291b2/)
